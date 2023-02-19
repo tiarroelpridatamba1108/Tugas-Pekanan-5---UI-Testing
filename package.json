@@ -1,0 +1,26 @@
+{
+  "name": "tugas-pekanan-5---ui-testing",
+  "version": "1.0.0",
+  "description": "cypress kasir aja end to end test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiarroelpridatamba1108/Tugas-Pekanan-5---UI-Testing.git"
+  },
+  "keywords": [
+    "cypress",
+    "kasiraja"
+  ],
+  "author": "tiarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiarroelpridatamba1108/Tugas-Pekanan-5---UI-Testing/issues"
+  },
+  "homepage": "https://github.com/tiarroelpridatamba1108/Tugas-Pekanan-5---UI-Testing#readme",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
